@@ -32,6 +32,7 @@ class ResultActivity : AppCompatActivity() {
 
 //        tv_bmi.text = bmi.toString()
 //        tv_result.text = resulText
+
         tv_bmi.setText(bmi.toString())
         tv_result.setText(resulText)
     }
